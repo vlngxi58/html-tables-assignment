@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Comparison</title>
+    <style>
+        table {
+            width: 50%;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: center;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Product Comparison Table</h1>
+
+    <table>
+        <caption>Comparison of Three Smartphones</caption>
+        <tr>
+            <th>Feature</th>
+            <th>Phone A</th>
+            <th>Phone B</th>
+            <th>Phone C</th>
+        </tr>
+        <tr>
+            <td>Battery Life</td>
+            <td>18 hours</td>
+            <td>20 hours</td>
+            <td>24 hours</td>
+        </tr>
+        <tr>
+            <td>Camera Quality</td>
+            <td>12 MP</td>
+            <td>48 MP</td>
+            <td>50 MP</td>
+        </tr>
+        <tr>
+            <td>Price</td>
+            <td>$600</td>
+            <td>$800</td>
+            <td>$750</td>
+        </tr>
+        <tr>
+            <td colspan="4"><strong>All phones come with a 1-year warranty</strong></td>
+        </tr>
+    </table>
+
+    <h2>Conclusions:</h2>
+    <ul>
+        <li>Phone C has the best battery life and camera quality for its price.</li>
+        <li>Phone A is the most affordable option but has the lowest camera quality.</li>
+        <li>Phone B is the most expensive but has a high-quality camera.</li>
+    </ul>
+
+    <img src="https://example.com/illustration.jpg" alt="Young woman typing">
+
+</body>
+</html>
+ 
